@@ -1,10 +1,10 @@
 # note
 note book
 
-## requirement
+## Requirements
 - Docker
 
-## install
+## Installation
 ```
 git clone git@github.com:akriaueno/note.git
 cd note
