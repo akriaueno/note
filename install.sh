@@ -1,7 +1,7 @@
 #!/bin/bash
 
-note_dir=$HOME/.note
-docker_img=note:latest
+note_dir="$HOME/.note"
+docker_img="ghcr.io/akriaueno/note:1.0.0"
 
 if ! command -v docker &> /dev/null
 then
